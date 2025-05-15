@@ -4,7 +4,7 @@ Este proyecto automatiza la búsqueda y filtrado de productos en Mercado Libre u
 
 ## Requisitos
 Necesitas tener instalado lo siguiente:
-- Node.js >= 16
+- Node.js >= 14
 - npm
 - navegador compatible
 - Lenguaje: Usa cualquier lenguaje de programación con el que te sientas cómodo
@@ -14,13 +14,15 @@ Necesitas tener instalado lo siguiente:
 1.**Clona este repositorio o descarga el código.**
    ```bash
    https://github.com/cyntiarom/test_puppeteer.git
+```
 2.**Instala las dependencias:**
   Ejecuta lo siguiente para instalar las dependencias definidas en `package.json`:
    ```bash
    npm install
-
+```
 ## Ejecución
-1. **Usa el siguiente comando para ejecutar las pruebas definidas en el archivo `.feature`:**
+1. **Ejecutar las pruebas**
+   Usa el siguiente comando para ejecutar las pruebas definidas en el archivo `.feature`:**
 
    ```bash
    npm test
