@@ -37,4 +37,4 @@ features/step_definitions/steps.js: Definiciones de los pasos en JavaScript.
 features/screenshots/: Carpeta donde se guardan las capturas de pantalla.
 
 
-¡Listo! Ahora puedes ejecutar y modificar tus pruebas automatizadas en Mercado Libre. ```
+¡Listo! Ahora puedes ejecutar y modificar tus pruebas automatizadas en Mercado Libre. 
