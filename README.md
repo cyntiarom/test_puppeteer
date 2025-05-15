@@ -22,7 +22,7 @@ Necesitas tener instalado lo siguiente:
 ```
 ## Ejecución
 1. **Ejecutar las pruebas**
-   Usa el siguiente comando para ejecutar las pruebas definidas en el archivo `.feature`:**
+   Usa el siguiente comando para ejecutar las pruebas definidas en el archivo `.feature`:
 
    ```bash
    npm test
@@ -31,7 +31,10 @@ Necesitas tener instalado lo siguiente:
 ## Estructura del proyecto
 
 features/: Contiene archivos .feature con los escenarios de prueba.
+
 features/step_definitions/steps.js: Definiciones de los pasos en JavaScript.
+
 features/screenshots/: Carpeta donde se guardan las capturas de pantalla.
+
 
 ¡Listo! Ahora puedes ejecutar y modificar tus pruebas automatizadas en Mercado Libre. ```
