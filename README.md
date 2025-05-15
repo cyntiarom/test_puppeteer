@@ -11,14 +11,16 @@ Necesitas tener instalado lo siguiente:
 - Marco: Utilice cualquier marco con el que se sienta cómodo 
 
 ## Instalación y configuración
-1. Clona este repositorio o descarga el código.
-2. Instala las dependencias:
+1.**Clona este repositorio o descarga el código.**
+   ```bash
+   https://github.com/cyntiarom/test_puppeteer.git
+2.**Instala las dependencias:**
   Ejecuta lo siguiente para instalar las dependencias definidas en `package.json`:
    ```bash
    npm install
 
 ## Ejecución
-1. Usa el siguiente comando para ejecutar las pruebas definidas en el archivo `.feature`:
+1. **Usa el siguiente comando para ejecutar las pruebas definidas en el archivo `.feature`:**
 
    ```bash
    npm test
